@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://firestoppingmanchesteruk.co.uk/sitemap.xml
