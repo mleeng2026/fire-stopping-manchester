@@ -4,3 +4,9 @@
 /* Homepage services photographic background */
 #services{background-color:#0a0a0a;background-image:linear-gradient(rgba(10,10,10,.64),rgba(10,10,10,.72)),url('/images/cable-tray-fire-stopping-manchester.jpg');background-size:cover;background-position:center;background-repeat:no-repeat}
 #services>div{position:relative}
+
+/* Compact footer map and Greater Manchester coverage background */
+footer div:has(>iframe[title*="Google Maps"]){width:min(230px,100%);aspect-ratio:1}
+footer iframe[title*="Google Maps"]{width:100%!important;height:100%!important}
+#coverage{background-color:#111;background-image:linear-gradient(rgba(10,10,10,.68),rgba(10,10,10,.76)),url('/images/fire-stopping-live-commercial-building.jpg');background-size:cover;background-position:center 38%;background-repeat:no-repeat}
+#coverage>div{position:relative}
