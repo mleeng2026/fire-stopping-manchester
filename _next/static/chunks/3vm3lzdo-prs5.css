@@ -67,3 +67,12 @@
   border-color:rgba(255,255,255,.10)!important;
 }
 #coverage p{color:rgba(255,255,255,.68)!important}
+
+/* FSM intumescent hero approved visual 2026-09-22 */
+img[src$="/intumescent-paint-structural-steel-manchester-manchester-m2.webp"]{
+  filter:brightness(1.08) contrast(1.02);
+  object-position:center 44%;
+}
+img[src$="/intumescent-paint-structural-steel-manchester-manchester-m2.webp"] + .absolute.inset-0{
+  background-color:rgba(0,0,0,.48)!important;
+}
