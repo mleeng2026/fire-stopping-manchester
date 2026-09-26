@@ -10,3 +10,8 @@ footer div:has(>iframe[title*="Google Maps"]){width:min(230px,100%);aspect-ratio
 footer iframe[title*="Google Maps"]{width:100%!important;height:100%!important}
 #coverage{background-color:#111;background-image:linear-gradient(rgba(10,10,10,.68),rgba(10,10,10,.76)),url('/images/fire-stopping-live-commercial-building.jpg');background-size:cover;background-position:center 38%;background-repeat:no-repeat}
 #coverage>div{position:relative}
+
+/* FSM site-wide CTA hierarchy 2026-09-26 */
+@media (max-width:1023px){nav[aria-label="Quick contact"]{display:none!important}}
+header a[class*="bg-primary"][href^="/contact/"]{background:rgba(255,255,255,.06)!important;border:1px solid rgba(255,255,255,.35)!important;box-shadow:none!important}
+header a[class*="bg-primary"][href^="/contact/"]:hover{background:rgba(255,255,255,.12)!important;border-color:rgba(255,255,255,.55)!important;box-shadow:none!important}
