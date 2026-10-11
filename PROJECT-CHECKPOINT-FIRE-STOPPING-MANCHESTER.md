@@ -76,6 +76,11 @@ Updated: 2026-10-11
 - Example: fire-stopping-stockport-bredbury-cable-tray-penetrations.webp
 - A renamed image does NOT claim the photographed job occurred in that location.
 - 4–6 relevant photos per substantial location page is a good target.
+- STRICT filename formula for location pages: SERVICE + MAIN TARGET LOCATION + SUB-LOCATION + USEFUL DESCRIPTOR.
+- The main target location must NEVER be replaced by the sub-location. Example: duct-penetration-fire-stopping-bolton-middlebrook-commercial-services.jpg.
+- STRICT PHOTO SOURCE RULE: use genuine user/client project photos already supplied in Drive/repo only. NEVER generate AI project/site photographs for this website unless Matthew explicitly reverses this rule.
+- Do not put visible defensive captions under genuine project photos. Avoid false location claims in the copy instead.
+- Use additional genuine photos as subtle ~75% dark section backgrounds when a page looks visually bland.
 
 ## Stockport status
 - Existing slug: /fire-stopping-stockport/
